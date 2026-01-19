@@ -1,4 +1,4 @@
-# first_app
+# diceRoller_app
 
 A new Flutter project.
 
